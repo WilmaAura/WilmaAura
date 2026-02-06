@@ -1,4 +1,4 @@
-## ⏱️ WakaTime Stats
+## 📈 Weekly Activity
 
 <!--START_SECTION:waka-->
 
