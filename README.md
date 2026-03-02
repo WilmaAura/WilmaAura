@@ -3,8 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   8 mins                ██████████████████████░░░   87.77 %
-Other            1 min                 ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+JSON    1 min                 ███████████████▓░░░░░░░░░   62.79 %
+Other   1 min                 █████████▒░░░░░░░░░░░░░░░   37.21 %
 ```
 
 <!--END_SECTION:waka-->
