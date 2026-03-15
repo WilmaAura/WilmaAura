@@ -12,4 +12,7 @@ Markdown         11 mins               ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilmaAura&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilmaAura&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WilmaAura&layout=compact&theme=dark" width="48%" />
+</p>
