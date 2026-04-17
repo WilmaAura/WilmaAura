@@ -3,8 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL              1 hr 49 mins          ████████████████████████▓   98.20 %
-Blade Template   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+SQL              1 hr 49 mins          █████████████████████████   99.99 %
+Blade Template   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
